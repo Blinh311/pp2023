@@ -10,5 +10,5 @@ Student Info
 =========================
 
 * Student Name: Vũ Bằng Linh 
-* Student ID: BI12-248
+* Student ID: BI12 - 248
 
